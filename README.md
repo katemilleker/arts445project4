@@ -1,20 +1,12 @@
-# Project #5: Replace
+# Project #4: Erase
 ## ARTS 445 - Net Art (SP18)
 
-### Chrome Extension Download: [HyperText Magnifies Language](https://chrome.google.com/webstore/detail/hypertext-magnifies-langu/ccmcidphkengjfdefehiemdkbpngdppe)
+### Chrome Extension Download: [Citation Eraser](https://chrome.google.com/webstore/detail/lpijjbkmlhcgcllpmfpfbejbfbemcdgh)
 
 #### 
 **Prompt:** 
-Select one website and create a Userscript-based Chrome extension that swaps out
-existing material on the site with something else. For example, you might replace all the 
-ads on CNN.com with images from the Washington Post, or perhaps you’ll replace all profile 
-images on Facebook with bits of text. Consider the implications of your choices.
+Remove at least four items from the site (these four could be iterations of the same item, such as all names or all instances of one person’s name, or four different items). Remove them from one page on the site or across multiple/all pages on the site. Think about how that erasure changes a user’s experience. Does your erasure draw attention to the missing content? What does the erasure suggest or reveal about the original?
 
-**Project Analysis:** For my project, I created a Chrome extension that takes every 
-H, T, M, and L that can be (reasonably) pulled from a web page, capitalizes it, and 
-makes it the color green. I chose to emphasize these letters to pay tribute to the 
-HTML behind the web page. I wanted to help reveal the underlying structure of a 
-webpage without requiring the user to look inside. This project is a starting point
-for revealing the structural nature of the web. 
+**Project Analysis:** I removed multiple elements from an article posted on the New York Times: the article’s author and publishing date, images within the article as well as their credits and captions, a story’s footer, and hyperlinks within the article to other articles or references. I wanted to explore how we interpret the validity of information when the information arrives without an author or other methods of engagement even though the article appears to be from a trustworthy source. Without hyperlinks to make further research easy or captivating images, do we still feel connected to the information presented or motivated to learn more? Are we more engaged with an article if we know it was published recently or do we disengage if we can’t put the article in some context of time and place? How is an article’s authenticity changed when there are no opportunities for corrections or explanation of context in the footer? Do we take the information presented as truthful just because it comes from the New York Times, or do the words lose their validity without proof of a trustworthy author with journalistic integrity? Sometimes we think an article as just a story or presentation of information, but if that’s all we get then the NYT becomes little more than an glorified blog post.
 
 - Still in development, has some bugs
