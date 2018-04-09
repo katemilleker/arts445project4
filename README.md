@@ -1,7 +1,7 @@
 # Project #4: Erase
 ## ARTS 445 - Net Art (SP18)
 
-### Chrome Extension Download: [Citation Eraser](https://chrome.google.com/webstore/detail/lpijjbkmlhcgcllpmfpfbejbfbemcdgh)
+### Chrome Extension Download: [Citation Eraser](https://chrome.google.com/webstore/detail/citation-eraser/lpijjbkmlhcgcllpmfpfbejbfbemcdgh)
 
 #### 
 **Prompt:** 
